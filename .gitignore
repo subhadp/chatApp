@@ -1,0 +1,15 @@
+# Ignore the .idea folder
+.idea/
+
+# Ignore the virtual environment folder
+env/
+
+# Optional: Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Optional: Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Optional: Ignore local configuration files
+*.env
